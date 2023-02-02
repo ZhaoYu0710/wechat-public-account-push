@@ -32,7 +32,7 @@ const USER_CONFIG = {
           type: '生日', name: '小佳', year: '2020', date: '03-21',
         },
         {
-          type: '节日', name: '恋爱纪念日', year: '2017', date: '12-18',
+          type: '节日', name: '💖恋爱纪念日', year: '2017', date: '12-18',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
@@ -47,13 +47,13 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'X9y4BWy4QuAraiVNoshn5sKYUSmQEkclxtnMyjxhDnw',
+  CALLBACK_TEMPLATE_ID: 'rPwiRP-R6PATYC0gEQDrNsJU9uFmdKUzMk-ChNOihaQ',
 
   CALLBACK_USERS: [
     {
       name: 'Zy',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'X9y4BWy4QuAraiVNoshn5sKYUSmQEkclxtnMyjxhDnw',
+      id: 'o771z6OiKSmOGvCgtbTYN-j0f9QQ',
     }
   ],
 
