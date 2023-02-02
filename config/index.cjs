@@ -27,9 +27,13 @@ const USER_CONFIG = {
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-21',
       festivals: [
+        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
+        {
+          type: '生日', name: '小佳', year: '2020', date: '03-21',
+        },
         {
           type: '节日', name: '恋爱纪念日', year: '2017', date: '12-18',
-        }
+        },
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
