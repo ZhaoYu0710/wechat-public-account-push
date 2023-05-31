@@ -40,7 +40,7 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2017-12-18' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '2023-05-13' },
+        { keyword: 'marry_day', date: '2023-06-21' },
       ],
     },
   ],
