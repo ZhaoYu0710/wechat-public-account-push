@@ -1,4 +1,4 @@
-/* eslint-disable */
+/* e1slint-disable */
 
 /**
  * 此项目配置为方便新人使用，已缩减至最简配置。
